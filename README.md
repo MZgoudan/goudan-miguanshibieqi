@@ -222,6 +222,6 @@
 
 **项目作者**: 蜜汁狗蛋
 **技术支持**: 欢迎技术交流与合作
-**开源地址**: https://github.com/mizhi-goudan/honeypot-detector
+**开源地址**: [https://github.com/mizhi-goudan/honeypot-detector](https://github.com/MZgoudan/goudan-miguanshibieqi/tree/main?tab=readme-ov-file)
 
 *让蜜罐无所遁形，让安全更加可靠*

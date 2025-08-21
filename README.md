@@ -1,9 +1,10 @@
 结合四大GitHub 现有的蜜罐识别器 而独立开发出来的 新的蜜罐识别器 ，由于是1.0版本 识别不准确 有bug 很正常 可以留言。
 
 <img width="1545" height="859" alt="image" src="https://github.com/user-attachments/assets/71c9c69f-460c-4b39-acd4-14c8c234c640" />
-![22222](https://github.com/user-attachments/assets/9c66bd0b-7380-48f6-9c55-3dd4a316244d)
-![111111](https://github.com/user-attachments/assets/4da0c362-5b00-48bc-a908-10c03fff0d6c)
-![33333](https://github.com/user-attachments/assets/419dc17e-d8c4-4b02-9f1d-9808e6714a48)
+<img width="1021" height="846" alt="image" src="https://github.com/user-attachments/assets/863c3995-3208-407f-85f5-8982a3f4730a" />
+<img width="1068" height="646" alt="image" src="https://github.com/user-attachments/assets/7cffd790-21d5-4372-94bc-09bff856c52e" />
+<img width="1178" height="552" alt="image" src="https://github.com/user-attachments/assets/2e951c2e-77cc-4c5d-83c0-9821600b70d4" />
+
 # 狗蛋蜜罐识别器 1.0 - 项目总结
 
 **作者**: 蜜汁狗蛋
